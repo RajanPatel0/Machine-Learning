@@ -1,0 +1,50 @@
+Transaction ID,Transaction Amount,Transaction Time,Merchant Category,Customer Age,Customer Gender,Customer Income,Transaction Location,Previous Fraud Count,Fraud
+100000,2651,58985,Electronics,48,Other,23895,Delhi,4,0
+100001,52624,7465,Travel,44,Other,32764,Bangalore,3,1
+100002,53646,51731,Restaurant,52,Female,177318,Delhi,4,1
+100003,2437,7488,Fashion,66,Other,40211,Delhi,2,1
+100004,90810,69786,Fuel,36,Other,81684,Bangalore,0,0
+100005,52486,3914,Online Services,30,Male,81057,Bangalore,3,1
+100006,74122,33051,Electronics,27,Male,173381,Delhi,0,1
+100007,57922,78009,Online Services,45,Other,79015,Pune,1,0
+100008,83738,57209,Travel,41,Female,115945,Chennai,1,1
+100009,87646,50020,Restaurant,22,Other,132374,Delhi,2,1
+100010,41066,57943,Fashion,54,Other,144710,Delhi,4,0
+100011,79074,15571,Online Services,24,Other,157352,Pune,0,0
+100012,54949,10755,Travel,30,Other,149361,Bangalore,1,0
+100013,18101,47542,Grocery,45,Female,75309,Chennai,2,0
+100014,58036,82929,Restaurant,52,Other,194245,Mumbai,1,0
+100015,67049,72601,Travel,18,Female,175200,Delhi,0,0
+100016,29974,83194,Fashion,58,Male,144603,Kolkata,3,0
+100017,97558,86167,Fuel,39,Other,136299,Bangalore,0,0
+100018,99926,14730,Restaurant,67,Female,143476,Delhi,0,1
+100019,37257,19698,Travel,69,Female,53957,Hyderabad,3,0
+100020,24978,1503,Grocery,37,Male,49069,Pune,4,0
+100021,87024,82775,Fashion,40,Male,49711,Chennai,0,0
+100022,19168,26173,Online Services,23,Male,54278,Delhi,2,0
+100023,989,15001,Restaurant,66,Other,180909,Kolkata,3,1
+100024,92294,13025,Online Services,45,Female,147649,Mumbai,1,0
+100025,44722,70634,Electronics,26,Female,148683,Hyderabad,4,0
+100026,3592,33001,Online Services,51,Male,189205,Kolkata,1,0
+100027,11100,75680,Grocery,57,Other,107848,Delhi,3,0
+100028,22347,30675,Travel,46,Female,120756,Hyderabad,3,1
+100029,18332,76115,Fashion,42,Other,40175,Bangalore,4,0
+100030,23341,14866,Fuel,59,Other,121873,Bangalore,3,0
+100031,33938,51424,Restaurant,48,Other,119594,Kolkata,2,0
+100032,37667,39291,Grocery,49,Male,16485,Hyderabad,0,0
+100033,90077,2643,Online Services,62,Female,19081,Pune,2,1
+100034,73966,33331,Grocery,68,Female,139343,Delhi,0,0
+100035,1581,3574,Fashion,58,Male,192274,Bangalore,4,0
+100036,91940,32792,Fuel,22,Male,100144,Bangalore,4,1
+100037,94769,66369,Grocery,73,Other,26831,Delhi,3,1
+100038,62698,72592,Grocery,39,Female,152836,Chennai,4,1
+100039,90790,9613,Grocery,67,Female,189134,Delhi,2,1
+100040,87172,413,Fuel,49,Other,171414,Mumbai,4,1
+100041,11358,10869,Fashion,53,Female,172061,Hyderabad,1,0
+100042,16406,49860,Online Services,46,Male,92816,Mumbai,2,0
+100043,68155,76076,Fuel,61,Female,164568,Mumbai,1,0
+100044,30820,32701,Fashion,58,Other,127302,Pune,3,0
+100045,94457,22607,Online Services,18,Other,55516,Bangalore,4,1
+100046,10643,59097,Fashion,42,Other,17189,Mumbai,1,0
+100047,81689,58482,Online Services,31,Male,165679,Mumbai,0,0
+100048,2950,30248,Fashion,26,Other,37466,Pune,1,0
